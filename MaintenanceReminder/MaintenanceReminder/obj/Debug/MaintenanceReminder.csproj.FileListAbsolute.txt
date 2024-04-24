@@ -1,0 +1,36 @@
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.exe.config
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.exe
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.pdb
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.AssemblyReference.cache
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormDevicesList.resources
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormMain.resources
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.Properties.Resources.resources
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.GenerateResource.cache
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.CoreCompileInputs.cache
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.exe
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.pdb
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormCalibration.resources
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormAddDevice.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.exe.config
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.exe
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\MaintenanceReminder.pdb
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.AssemblyReference.cache
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormCalibration.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormDevicesList.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormMain.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.FormAddDevice.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.Properties.Resources.resources
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.GenerateResource.cache
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.csproj.CoreCompileInputs.cache
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.exe
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\MaintenanceReminder.pdb
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\obj\Debug\Maintena.28D18FF3.Up2Date
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\AdvancedDataGridView.dll
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\AdvancedDataGridView.xml
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Projeler\Periyodik Bakım Hatırlatma\MaintenanceReminder\MaintenanceReminder\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\AdvancedDataGridView.dll
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\AdvancedDataGridView.xml
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\lutfi.yildirim\Desktop\MaintenanceReminder\MaintenanceReminder\obj\Debug\Maintena.28D18FF3.Up2Date
