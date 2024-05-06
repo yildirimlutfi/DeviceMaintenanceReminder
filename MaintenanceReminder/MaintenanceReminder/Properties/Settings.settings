@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MaintenanceReminder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailAddress1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yildirimlutfi@gmail.com</Value>
+    </Setting>
+    <Setting Name="MailAddress2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yildirimlutfi@yahoo.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

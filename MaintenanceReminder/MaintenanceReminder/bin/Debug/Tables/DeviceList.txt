@@ -1,0 +1,4 @@
+06.05.2024;11:11:03;1;Masa;Tek Kişilik;B01;CKM01;False;
+06.05.2024;11:12:00;2;Philips-N01;Nem Ölçer;B01;CKN01;True;
+06.05.2024;11:15:54;3;Bosch-T1234;Sıcaklık Ölçüm Cihazı;B02;CKT01;True;
+06.05.2024;11:19:44;4;Siemens-S7123;Asenkron Motor - Havalandırma;B02;CKA01;True;
